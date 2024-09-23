@@ -1,0 +1,4 @@
+regex101.com // good for regular expressions
+uuidgenerator.net // good for randomizing text
+npmjs.com // good for finding packages
+    using npm install will also install ALL packages that exisit in the project's package.json
